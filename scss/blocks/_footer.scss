@@ -1,0 +1,13 @@
+.site-footer{
+    background-image: url("../images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 797px 336px;
+    background-position:center;
+    padding: 150px 0 200px;
+}
+.site-footer a{
+    position: fixed;    
+    right: 135px;
+    bottom: 100px;
+    /* z-index: -1; */
+}
